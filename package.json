@@ -1,5 +1,5 @@
 {
-  "name": "next-with-chakraUI-other-template",
+  "name": "next-with-chakraui-other-template",
   "private": true,
   "scripts": {
     "dev": "next dev",
